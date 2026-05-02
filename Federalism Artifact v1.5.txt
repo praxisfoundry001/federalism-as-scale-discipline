@@ -1,0 +1,1140 @@
+﻿Federalism as Scale Discipline
+One Constitutional Body, Real Nested Systems, and the Person Carried Across Scale
+1. Why Federalism Got Bigger Than the Note
+I was preparing to write a shorter note on Federalism.
+At first, that seemed right. Federalism is a familiar legal subject. It has familiar words around it: federal power, state power, local authority, reserved powers, supremacy, preemption, sovereign immunity, anti-commandeering, incorporation, and civil-rights enforcement.
+Those words matter. They name real legal doctrines and real constitutional fights.
+But as I began working through them, the subject started to move underneath the usual frame. Federalism began to look less like a fight over which government wins and more like a question about what happens to the human being as public power changes scale.
+That is the question this artifact follows.
+This artifact does not replace Federalism doctrine, constitutional law, state-sovereignty doctrine, preemption doctrine, anti-commandeering doctrine, incorporation doctrine, civil-rights enforcement doctrine, separation-of-powers analysis, or legal advice. It offers a structural account of the object those doctrines keep circling: lawful public scale. 
+A person can be acted upon by many public systems. A state can act on you. A city can act on you. A federal agency can act on you. A court can act on you. A school board, licensing office, police department, benefits office, prison system, election office, zoning authority, public health agency, or administrative body can act on you.
+Each of those systems may be real. Each may have lawful work to do. Each may have a boundary, a record, a procedure, an authority surface, and a role inside the larger constitutional order.
+But none of them should be able to act as though you have left the whole constitutional body.
+That is the central intuition.
+The United States is one constitutional civic body. But it is not flat. It contains states, local governments, courts, agencies, offices, districts, public systems, and many other nested structures. Those structures are not imaginary. Their boundaries matter. Their authority is not decorative.
+At the same time, those nested systems are not separate constitutional worlds.
+A person does not become only local because a city acts. A person does not become only state because a state acts. A person does not become only administrative because an agency acts. A person does not become only procedural because a form, hearing, docket, or rule stands between them and relief.
+The person moves through those systems while remaining part of the whole.
+That may be the deeper problem Federalism is trying to manage.
+Federalism is often taught from the government side. Who has authority? Who can regulate? Who can override? Who can refuse? Who can command? Who can resist? Who gets the final word?
+Those questions are not wrong. A constitutional order really does need to know which public actor may act, when, and with what force.
+But from the person’s side, Federalism is not first experienced as an org chart. It is experienced as movement through layered public power.
+You are not only “in America.” You are also in a state. You may be in a county, city, school district, police jurisdiction, tax district, licensing system, court system, prison system, immigration system, benefits system, or public health system. Each layer can protect. Each layer can burden. Each layer can fail. Each layer can pass responsibility elsewhere.
+So the Federalism question becomes more precise:
+Does the person remain continuous across those layers?
+Or does the person get translated downward into “only local,” “only state,” “only administrative,” “only procedural,” or “only someone else’s responsibility”?
+That downward translation is one of the great dangers of public scale.
+A constitutional republic cannot preserve persons only in the abstract. It has to preserve them while power moves through real institutions. It has to preserve them when authority changes hands, when responsibility shifts, when a record travels, when a claim moves from local office to state agency to federal rule to court review. It has to preserve them when each layer has a plausible reason to say, “not us,” “not here,” “not yet,” or “not our problem.”
+Federalism becomes important at exactly that point.
+If Federalism is reduced to state power, it loses the person’s claim on the whole.
+If it is reduced to national power, it loses the reality of nested systems.
+If it is reduced to doctrine, it loses the thing the doctrines are trying to manage.
+If it is reduced to intergovernmental relations, it forgets that the person is the one carried through the arrangement.
+The question is not only how governments relate to one another.
+The question is whether the constitutional body can remain one without becoming flat, while its nested systems remain real without becoming separate wholes.
+That is why Federalism got bigger than the note.
+A short note could explain a doctrine. It could summarize a line of cases. It could give a useful reading of preemption, anti-commandeering, incorporation, state sovereignty, or civil-rights enforcement.
+But the deeper question comes first:
+what is Federalism doing when those doctrines are not reduced to slogans?
+Federalism is best understood as constitutional scale discipline: the discipline by which one constitutional body remains one without flattening its nested systems, while those nested systems remain real without cutting the person off from the whole.
+Put more plainly:
+Federalism asks whether public power, as it changes scale, still carries the person through real nested systems as part of one constitutional body.
+That is the artifact’s starting point.
+Not which government wins.
+Not whether state power is good or national power is bad.
+Not whether local control is always noble or federal action is always intrusive.
+The starting point is the person moving through public scale.
+Once we begin there, familiar Federalism disputes start to look different. Incorporation is no longer only a question about national rights reaching into state action. It becomes a question about whether the person remains held by the whole when the state acts. Anti-commandeering is no longer only a question about state resistance. It becomes a question about whether nested systems remain real rather than becoming federal machinery. Preemption is no longer only “federal wins.” It becomes a question about whether the whole is preserving coherence or flattening lawful local work.
+State sovereignty also changes shape. Sometimes it names a real boundary. Sometimes it becomes boundary capture. National power changes shape too. Sometimes it preserves the whole. Sometimes it pretends it is the whole.
+Those are not the same failures.
+A serious account of Federalism has to be able to tell them apart.
+Federalism becomes clearer when we understand it as the scale discipline of the constitutional order.
+The doctrine does not disappear. The hard cases do not become easy. Courts, agencies, legislatures, and citizens still have to work through text, history, precedent, facts, institutional competence, and remedy.
+But the first question becomes sharper:
+does public power, as it changes scale, still carry the person through real nested systems as part of one constitutional body? 
+2. The Object: Federalism as Scale Discipline
+Federalism is not a slogan.
+It is not a mood of suspicion toward national power.
+It is not automatic defense of state authority.
+It is not a list of doctrines.
+And it is not a contest in which one government wins and another government loses.
+Those are familiar ways Federalism appears. They are not enough.
+Federalism is scale discipline inside the constitutional civic field.
+The constitutional order is one civic body. It has to remain one body if constitutional membership, public constraint, shared rights, lawful responsibility, and public memory are going to carry across the Republic.
+But that body is not flat.
+It contains real nested public systems: states, local governments, courts, agencies, offices, school districts, police jurisdictions, benefit systems, licensing systems, prison systems, election systems, public health systems, and many other lawful authority surfaces. These are not illusions. They are not decorative subdivisions. They are not merely administrative conveniences. They have real work to do.
+Federalism is the discipline that holds those two truths together.
+One constitutional body.
+Many real nested systems.
+The person carried through both.
+A constitutional republic needs the whole to remain whole. But it also needs the nested systems to remain real. If the whole becomes so dominant that nested systems become mere instruments, the order becomes flat. If nested systems become so self-enclosed that they act like separate constitutional worlds, the order fragments. If the person is lost in the movement between them, the structure has failed even if every public actor can still describe its own authority.
+Federalism is the discipline that prevents those failures.
+It is not simply the fact that authority is divided. Division alone is too thin. A chart can divide powers. A statute can assign powers. A doctrine can allocate powers. But Federalism is not only allocation. It is the deeper condition under which public power may change scale without losing the constitutional person or erasing the nested systems through which that person is governed.
+This matters because public power does not meet people only at one level.
+A person may need a local permit, a state benefit, a federal protection, a court order, an agency hearing, a school accommodation, a prison remedy, a voting rule, or a public health response. The person may be moved from office to office, layer to layer, rule to rule, jurisdiction to jurisdiction. Each layer may claim limited authority. Each may have procedures. Each may have reasons. Each may have a boundary.
+Federalism asks whether those boundaries remain lawful.
+A lawful boundary does not erase the whole.
+A lawful whole does not erase the boundary.
+That is the central scale discipline.
+A state has to be real enough to govern. But it cannot become so total that a person inside the state is cut off from the larger constitutional body.
+The national layer has to be real enough to preserve the whole. But it cannot become so total that states, local systems, institutions, and communities become only federal machinery.
+Local systems have to be real enough to respond to local conditions. But they cannot become places where the person disappears from constitutional memory.
+This is why Federalism cannot be reduced to any one of its familiar surfaces.
+State sovereignty, national supremacy, local control, and civil-rights enforcement each name something real. Each carries part of the Federalism burden. But none carries the whole object.
+State sovereignty can preserve nested-system reality while losing the person’s claim on the whole. National supremacy can preserve whole-corpus coherence while flattening nested systems. Local control can protect proximity while trapping the person inside local power. Civil-rights enforcement can repair nested-system failure while risking central flattening.
+The object is the scale discipline itself.
+Federalism asks how the constitutional body can remain one without becoming flat, and how nested public systems can remain real without becoming separate wholes. It asks how the person remains carried by the whole while moving through systems that are themselves real.
+That last phrase matters: systems that are themselves real.
+If the systems are not real, then the person is not being carried through a constitutional order with lawful nested structures. The person is being carried through flattened administration. The state office, local board, agency, or institution may still exist, but it no longer has a meaningful boundary of its own. It becomes an instrument of another scale.
+But if the person is not carried by the whole, then nested systems become dangerous in the opposite way. They become little worlds. They can say, in effect: here, the whole does not reach you. Here, your claim stops. Here, your injury is only local. Here, your right is only procedural. Here, your remedy belongs somewhere else. Here, you are someone else’s responsibility.
+Federalism exists to hold against both errors.
+It is a discipline of scale because constitutional power changes level. It moves through layers. It appears as national law, state administration, local enforcement, agency procedure, court review, institutional policy, and public record. The question is whether that movement remains lawful.
+A lawful scale relation preserves three things at once.
+First, the corpus remains one. There is one constitutional body, not a pile of unrelated public systems.
+Second, nested systems remain real. Their boundaries and authority are not merely decorative.
+Third, the person remains continuous. Public scale may change, but the person does not lose membership in the whole.
+Those three are not separate preferences. They belong together.
+If the corpus does not remain one, the person can be fragmented among systems.
+If nested systems do not remain real, the person is carried through flattened power.
+If the person does not remain continuous, the systems may keep operating while constitutional membership breaks underneath them.
+That is why Federalism is not only a government-design principle. It is a person-carry discipline inside public scale.
+This does not make Federalism sentimental. It does not mean the person always wins against the state, the state always wins against the nation, or the nation always wins against local variation. Federalism does not mechanically decide outcomes.
+It gives us the scale burden that outcomes must answer to.
+When a state claims authority, Federalism asks whether that claim preserves a real nested system or captures the person against the whole.
+When the national layer acts, Federalism asks whether that action preserves the constitutional body or flattens the nested systems inside it.
+When local systems respond, Federalism asks whether local authority carries the person as part of the whole or traps the person inside local procedure.
+When courts apply doctrine, Federalism asks whether doctrine is preserving lawful scale or disguising scale failure.
+This is the shift.
+Federalism is not first a preference for state power or national power.
+It is the discipline that makes state power, national power, local authority, and institutional action remain lawful in relation to one another and to the person carried through them.
+The constitutional civic field concerns the whole civic order: how person-originated signals enter public processing, how public record becomes binding constraint, how memory and proportionate response carry forward, and how the person remains the primary constitutional boundary.
+Federalism works inside that field. It asks whether the Republic can remain one civic body without becoming flat.
+Federalism is more specific than the whole constitutional order, but deeper than any single doctrine. Incorporation, anti-commandeering, preemption, state sovereignty, national supremacy, local control, civil-rights enforcement, and intergovernmental relations are surfaces where Federalism appears. 
+The underlying condition is scale.
+One constitutional body without flatness.
+Many nested systems without fragmentation.
+The person carried across scale without losing membership in the whole.
+That is what this artifact means by Federalism as scale discipline.
+3. The Dual-Faced Hold
+Federalism has to hold two things at once.
+First, nested public systems have to remain real.
+Second, the person has to remain carried by the whole constitutional body while moving through those systems.
+Those two requirements can sound separate at first. They rise or fall together.
+A state cannot be real in the Federalism sense if it becomes a wall against the person’s membership in the whole. A local system cannot be real in the Federalism sense if it traps the person inside local procedure as though the larger constitutional order has disappeared. An agency cannot be real in the Federalism sense if it treats the person as only a file, status, classification, docket, or administrative problem.
+But the opposite is also true.
+The whole constitutional body cannot carry the person lawfully if the nested systems through which the person is carried are treated as fake. A national rule cannot preserve the whole by erasing state and local authority. A federal program cannot carry constitutional order by turning every nested institution into an instrument. A court cannot preserve the person by pretending that the public systems closest to the person have no lawful reality of their own.
+Federalism holds only when both faces hold together.
+The first face is nested-system reality.
+This means states, local governments, courts, agencies, districts, offices, boards, and public institutions are not merely convenient locations where national authority happens to appear. They have real authority surfaces. They have boundaries. They have responsibilities. They have internal processes and lawful work.
+If those boundaries are denied entirely, the constitutional order becomes flat. The nested systems still have names, offices, forms, and personnel, but they no longer carry as real constitutional structures. They become delivery mechanisms for a single center.
+That is not Federalism holding.
+The second face is person-continuity across scale.
+This means the person does not lose membership in the whole constitutional body by entering a nested public system. The person does not become less constitutionally present because the immediate actor is a city, state, school board, prison system, licensing office, benefits agency, police department, court clerk, or administrative tribunal.
+The person remains part of the whole.
+If that continuity is denied, the constitutional order fragments. Public systems may keep operating. They may even operate efficiently. But the person can be translated downward into a smaller status: only local, only state, only administrative, only procedural, only incarcerated, only undocumented, only licensed, only enrolled, only denied, only transferred, only someone else’s problem.
+That is not Federalism holding either.
+They depend on one another.
+Nested-system reality without person-continuity becomes boundary capture.
+A nested system may say: our authority is real, our procedure is real, our local judgment is real, our state interest is real, and therefore the whole constitutional body has no claim here. The boundary becomes a wall. The person is held inside the nested system but not carried by the whole.
+Person-continuity without nested-system reality becomes flattening.
+The whole may say: the person must be protected, the national rule must prevail, the shared constitutional order must remain coherent, and therefore the nested systems do not matter as systems. Their boundaries become decorative. Their institutions become tools. Their local authority becomes conditional on central use.
+Both failures break Federalism.
+Federalism does not preserve nested systems on one side and the person on the other, as though those were separate goals. It preserves the person through real nested systems, and it preserves nested systems as parts of one constitutional body that continues to carry the person.
+If nested systems cease to be real, the person is not carried through a constitutional order with lawful scale. The person is carried through flattened administration.
+If the person ceases to be carried by the whole, nested systems do not remain lawful parts of one corpus. They become separate, captured, or isolating sites.
+That is the dual-faced hold.
+This helps explain why Federalism is so easy to distort.
+If someone sees only nested-system reality, Federalism can sound like state sovereignty, local control, state dignity, anti-commandeering, or resistance to national power.
+Those may name real surfaces. But alone, they are incomplete.
+A state boundary is lawful only if it preserves a real nested system without cutting the person off from the whole.
+If someone sees only person-continuity across scale, Federalism can sound like incorporation, civil-rights enforcement, national supremacy, or whole-corpus repair.
+Those may name real surfaces too. But alone, they are also incomplete.
+National action is lawful only if it carries the person as part of the whole without flattening the nested systems through which public life is organized.
+Federalism requires both.
+That is why many Federalism disputes become confused. The parties may each be holding a real face of the object while treating the other face as fake.
+One side says: the state is real.
+That may be true.
+The other side says: the person remains held by the whole.
+That may also be true.
+The real Federalism question is whether those truths can still carry together.
+When they cannot, the dispute is no longer just about which side has the better slogan. It is about whether public scale has stopped holding lawfully.
+The same is true in reverse.
+One side says: the nation must preserve the whole.
+That may be true.
+The other side says: nested systems cannot be erased.
+That may also be true.
+Again, the Federalism question is whether the whole can act without flattening the nested systems, and whether the nested systems can remain real without fragmenting the whole.
+Federalism is not merely a balance between state and national power.
+A balance can shift.
+A hold can fail.
+Federalism asks whether the constitutional body, its nested systems, and the person remain joined across public scale. 
+When Federalism holds, the person can move through public systems without becoming lost in them. A state can govern without pretending to be the whole. The national layer can preserve the whole without pretending nested systems are fake. Local systems can respond to local conditions without becoming constitutional islands. Courts can enforce shared constraint without erasing lawful scale. Agencies can administer programs without turning the person into only a file inside a procedure.
+When Federalism fails, the same structures may remain visible. The offices may still exist. The doctrines may still be cited. The forms may still be processed. The records may still be maintained. But the scale relation has broken.
+The person may be acknowledged but not carried.
+The nested system may be empowered but no longer lawful.
+The national layer may act for the whole but flatten what it was supposed to preserve.
+The local system may protect its boundary but use that boundary to block the person’s claim on the whole.
+That is the danger.
+Federalism is the discipline that keeps public scale from turning into either flattening or fragmentation.
+Flattening happens when the whole erases the nested systems.
+Fragmentation happens when nested systems stop carrying as parts of the whole.
+Boundary capture happens when a nested system uses its real boundary to trap the person away from the whole.
+Scale abandonment happens when the person is passed among layers without any layer carrying responsibility as part of one constitutional body.
+All of these are different ways the dual-faced hold can break.
+The object can now be stated more sharply:
+Federalism holds the dual-faced scale condition under which one constitutional civic corpus preserves the real authority of its nested public systems while carrying the person across every scale as a full member of the whole.
+That is still a dense sentence. But its burden is simple.
+Nested systems must remain real.
+The person must remain held by the whole.
+Neither face can survive honestly without the other.
+That is why Federalism is not just a doctrine of divided power. It is a discipline of lawful scale.
+4. The Failure Signature
+If Federalism is a scale discipline, then its failure is not simply “too much federal power” or “too much state power.”
+Those may be symptoms. They may be serious. But they are not yet the core failure.
+Federalism fails when public scale stops carrying lawfully.
+More fully:
+Federalism fails when scale-change in public power breaks the dual-faced hold — nested-system reality and person-continuity across scale collapsing together — so that the civic corpus can no longer hold nested systems as genuinely real while carrying the person through them as a full member of the whole.
+That is the failure signature.
+The shorter teaching form is this:
+Federalism fails when the person is no longer carried by the whole through real nested systems.
+That is easier to remember. But it only works because both sides remain present: the person must be carried by the whole, and the systems must be real.
+The person must be carried by the whole.
+The systems must be real.
+Federalism fails when those conditions collapse together.
+This matters because Federalism language often mistakes symptoms for failure. One person sees national overreach. Another sees state obstruction. Another sees local neglect. Another sees federal paralysis. Another sees rights failure. Another sees administrative confusion. Each may be seeing something real. But Federalism’s deeper failure is not found by choosing one slogan and treating it as the whole.
+The deeper failure appears when scale itself stops holding.
+A nested system may remain visible. It may have offices, rules, records, procedures, and officials. But if it uses its boundary to cut the person off from the whole constitutional body, Federalism has failed from one side.
+The whole may remain visible too. It may have national statutes, constitutional guarantees, federal agencies, federal courts, and national enforcement. But if the whole preserves itself by treating nested systems as mere instruments, Federalism has failed from the other side.
+In both cases, the same scale discipline breaks.
+The person, the nested system, and the whole constitutional body no longer carry together.
+That is why the failure signature is not partisan, regional, or doctrinal. It does not begin by asking whether state power or national power is good. It asks what happens to the scale relation.
+Does the person remain held by the whole?
+Do nested systems remain real?
+Does the constitutional body remain one without becoming flat?
+If the answer is no, Federalism is under failure pressure.
+Consider the state-side failure first.
+A state may have real authority. It may legislate, administer, regulate, tax, enforce, adjudicate, and maintain public order. Those powers are not decorative. A state that cannot act as a real nested system is not being preserved in any meaningful Federalism sense.
+But that real authority can deform.
+The state can begin to act as though its boundary is not an inside face of one constitutional body, but a wall against the whole. The person becomes “inside the state” in a way that quietly means “outside the whole.” The state’s procedure becomes final in a deeper sense than it should. The person’s claim on the larger constitutional body is treated as intrusion, abstraction, or someone else’s business.
+That is not lawful nested-system reality.
+That is boundary capture.
+The same pattern can appear in local systems. A city, school board, jail, police department, agency office, or benefits system may have real work to do. Its proximity may matter. Its records may matter. Its local knowledge may matter. But if the person becomes trapped inside the local system as only a local problem, then scale has broken. The local system is no longer carrying the person as part of the whole. It is enclosing the person away from the whole.
+Federalism fails there even if no one uses the word Federalism.
+Now consider the national-side failure.
+The national layer may need to act to preserve the whole. It may need to protect shared rights, prevent fragmentation, coordinate overlapping authority, secure national markets, enforce constitutional obligations, or repair local failure. That is not inherently hostile to Federalism. Sometimes it is Federalism doing its whole-corpus work.
+But national action can deform too.
+The national layer can begin to treat nested systems as fake. It can treat states, local governments, agencies, courts, institutions, and communities as mere channels for central will. It can use coordination as control. It can use repair as occupation. It can use coherence as flattening.
+That is not whole-corpus preservation.
+That is central flattening.
+Federalism fails there too.
+So the failure signature has to avoid two temptations.
+The first temptation is to say Federalism fails whenever the state loses.
+That is too thin. Sometimes state resistance is lawful boundary preservation. Sometimes it is boundary capture. Sometimes national action is overreach. Sometimes national action is whole-corpus repair. “State loses” does not tell us what failed.
+The second temptation is to say Federalism fails whenever the nation cannot act.
+That is also too thin. Sometimes national paralysis lets nested systems fragment the whole or abandon the person. Sometimes national restraint preserves real nested systems. “Nation cannot act” does not tell us what failed either.
+Federalism failure is not measured by which level wins.
+It is measured by whether public scale still carries lawfully.
+That gives us a cleaner way to read familiar disputes.
+If incorporation fails, the person may enter state action and lose the protections that should travel with membership in the whole.
+If anti-commandeering fails, nested systems may be conscripted into national machinery and cease to be real systems.
+If preemption fails in one direction, incompatible commands may split the person or institution across layers. If it fails in the other direction, national coherence may become a tool for flattening lawful state or local work.
+If state sovereignty fails, a real boundary becomes a wall against the person’s claim on the whole.
+If civil-rights enforcement fails, whole-corpus repair may either not arrive when a nested system fails the person, or arrive in a form that erases the nested system rather than repairing the person’s place inside the whole.
+The failure signature lets those differences become visible.
+Without it, Federalism disputes can collapse into one flat argument: national power versus state power.
+With it, the question becomes sharper:
+* What scale relation has broken?
+* Has the whole become flat?
+* Has the nested system become a separate world?
+* Has the person fallen between layers?
+* Has responsibility circulated without ownership?
+* Has one scale frozen another?
+Those are different failures. They need different names because they create different civic damage.
+Those shapes are different enough to need different names.
+A person who is trapped inside a local procedure is not in the same situation as a state system flattened into federal machinery. A state using sovereignty to block constitutional membership is not the same as a national rule preserving coherence across conflicting commands. A local office that passes responsibility upward is not the same as a federal program that passes accountability downward. All of these may appear in Federalism disputes, but they are not the same event.
+The failure signature keeps them from blending together.
+It also protects Federalism from false profundity.
+Without a failure signature, Federalism can become a word that does too much work. It can mean state dignity when that is convenient, national supremacy when that is convenient, local control when that is convenient, liberty when that is convenient, anti-centralization when that is convenient, or efficient administration when that is convenient.
+A word that can mean everything at once cannot discipline anything.
+The failure signature gives Federalism a cost.
+If someone claims Federalism is at stake, the question becomes:
+What is failing?
+Is the person no longer being carried by the whole through real nested systems?
+Is nested-system reality being erased?
+Is whole-corpus membership being blocked?
+Is public scale flattening, fragmenting, trapping, or passing responsibility without ownership?
+If not, the claim may still involve constitutional law. It may still involve doctrine. It may still involve institutional design. But it may not be a Federalism failure in the sense this artifact is naming.
+That is useful.
+It means Federalism becomes less available as a slogan and more available as a diagnostic question about scale.
+The diagnosis does not decide every case. It does not tell us automatically where a court should land, what statute should prevail, what agency should do, or how much local variation should be tolerated. But it does tell us what burden any serious answer must carry.
+A serious answer must preserve the dual-faced hold.
+It must preserve nested systems as real without letting them become separate constitutional worlds.
+It must preserve the person as held by the whole without letting the whole flatten the systems through which public life is organized.
+This is why the failure signature is the hinge of the artifact.
+The definition tells us what Federalism holds.
+The failure signature tells us what is lost when Federalism stops holding.
+If the definition is right, then Federalism is the discipline of lawful public scale.
+If the failure signature is right, then Federalism fails when lawful public scale collapses: when the whole, the nested systems, and the person no longer carry together as one constitutional order.
+Put plainly:
+Federalism is not failing merely because governments disagree.
+Federalism is failing when public power changes scale and the person is no longer carried by the whole through real nested systems.
+That is the failure this artifact now unfolds.
+5. The Five Shapes of Federalism Failure
+Federalism failure is not one thing.
+That is why the usual words often feel too blunt. “Overreach” may name something real, but it does not tell us what kind of failure occurred. “Obstruction” may name something real, but it does not tell us whether a nested system preserved a lawful boundary or captured the person against the whole. “States’ rights,” “national supremacy,” “local control,” and “federal intrusion” may all point toward real disputes, but none of them is precise enough by itself.
+If Federalism is the discipline of lawful public scale, then its failures appear in different shapes.
+The same scale discipline can break by fragmentation, splitting, misalignment, circulation without ownership, or hardening. These are not merely labels. They are different ways the constitutional body can stop carrying the person through real nested systems.
+Dissolution
+Dissolution happens when nested systems stop carrying as parts of one constitutional body.
+The whole does not merely become decentralized. It starts to come apart.
+A state, city, agency, court, office, district, or institution may continue to function. It may still have procedures, staff, records, budgets, jurisdiction, and legal authority. But its relation to the whole constitutional body weakens or breaks. It begins to behave less like a nested part of one order and more like a separate world.
+From the person’s side, dissolution feels like civic fragmentation.
+The person may still be inside a public system, but that system no longer seems to carry them as part of the whole. The state is doing one thing. The federal layer is doing another. The local system is doing something else. The court sees only its posture. The agency sees only its rule. The office sees only its form. Each part continues, but the person is no longer held by one constitutional body through them.
+Dissolution is the failure of one-body carry.
+It does not require chaos. It can happen inside orderly systems. A fragmented constitutional body may still produce records, decisions, denials, hearings, notices, and explanations. But the pieces no longer carry together strongly enough.
+A person can be processed by many systems and still not be held by one body.
+That is dissolution.
+The Federalism question is:
+Has the nested system stopped carrying as part of one constitutional corpus?
+If yes, Federalism is under dissolution pressure.
+Shear
+Shear happens when the person falls between layers.
+This is one of the most recognizable Federalism failures in lived civic experience.
+One layer has power. Another has responsibility. Another has the record. Another has the remedy. Another has the rule. Another has the discretion. Another has the excuse. Each layer can explain why the matter belongs somewhere else.
+The person is not ignored exactly. They may be acknowledged many times. They may receive letters, forms, denials, transfers, referrals, procedural notices, explanations, or appeal instructions.
+But the elements that should carry together have split apart.
+Power separates from responsibility.
+Responsibility separates from remedy.
+Remedy separates from record.
+Record separates from action.
+Action separates from accountability.
+That is shear.
+Shear is not the same as ordinary complexity. A constitutional order can have many layers without shearing. Complexity becomes shear when the layers divide the person’s claim so thoroughly that no layer owns the consequence.
+From the person’s side, shear sounds like:
+That office has the authority, but not the responsibility.
+That agency has the record, but not the remedy.
+That court has the posture, but not the facts.
+That state has the procedure, but not the constitutional burden.
+That federal system has the rule, but not the local person in front of it.
+Shear is the failure of joint carry across scale.
+The person remains visible enough to be routed, but not held strongly enough to be answered.
+The Federalism question is:
+Has scale split power from responsibility so the person loses a lawful owner of consequence?
+If yes, Federalism is under shear pressure.
+Drift
+Drift happens when a scale forgets its scale.
+A nested system may begin to act as though it were the whole. A state may treat its boundary as if the larger constitutional body has no claim inside it. A local system may treat its procedure as if constitutional membership stops at the office door. An institution may treat a person as only a file, status, category, or internal problem.
+That is one direction of drift.
+The other direction is central flattening. The national layer may act as though nested systems are not real. It may treat states, local institutions, and public systems as mere instruments. It may preserve national coherence in a way that erases lawful local or state authority.
+Both are scale drift.
+In drift, the actor may still be doing something recognizable. The state still governs. The agency still administers. The court still reviews. The federal government still coordinates. But the action is coming from the wrong scale-center.
+The part acts like the whole.
+Or the whole treats the parts as fake.
+Drift is dangerous because it can sound principled. A drifting state may speak the language of sovereignty. A drifting national layer may speak the language of unity. A drifting local institution may speak the language of procedure. Each may be using real words. But the scale location has shifted underneath the words.
+Federalism does not ask whether the word is familiar.
+It asks whether the scale is lawful.
+A state may preserve a real boundary. But if it acts as though its boundary blocks the person’s membership in the whole, it has drifted.
+The national layer may preserve the constitutional body. But if it acts as though nested systems have no lawful reality, it has drifted.
+A local system may apply procedure. But if it treats procedure as though the person is no longer constitutionally present, it has drifted.
+Drift is the failure of scale-location.
+The Federalism question is:
+Has a scale begun acting from a level it does not lawfully occupy?
+If yes, Federalism is under drift pressure.
+Echo
+Echo happens when responsibility circulates without ownership.
+A claim moves. A complaint moves. A record moves. A person moves. The system responds, but the response keeps traveling instead of resolving into accountable consequence.
+Federalism echo is not simple silence. Silence is easier to see.
+Echo can be harder because something is happening. The person may receive many responses. The system may generate process. The matter may be referred, transferred, remanded, escalated, deferred, acknowledged, docketed, or reviewed.
+But no layer carries the matter as its own.
+The person hears the public order answer, but the answer keeps bouncing.
+The local office says state rule.
+The state says federal requirement.
+The federal agency says local administration.
+The court says agency process.
+The agency says statutory limit.
+The legislature says administrative discretion.
+Each response may contain a piece of truth. But the whole system never takes ownership of the person’s claim as one constitutional body.
+That is echo.
+Echo is the failure of accountable scale passage.
+The signal travels, but it does not become owned consequence.
+This matters because a republic can look responsive while echoing. It can produce forms, appeals, hearings, notices, and decisions. It can maintain the appearance of movement. But movement is not the same as carry.
+If the person’s signal circulates across layers without any layer becoming answerable for the whole-corpus burden, Federalism has failed in echo.
+The Federalism question is:
+Does the person’s signal circulate across layers without becoming accountable public consequence?
+If yes, Federalism is under echo pressure.
+Lock
+Lock happens when one scale freezes another.
+A nested system may harden against the whole. A state or local system may use its boundary as a wall. The person’s claim on the larger constitutional body is blocked by the very system that should carry the person as part of that body.
+That is one form of lock.
+The national layer may also harden against nested systems. It may turn coordination into control. It may turn repair into occupation. It may turn coherence into command. The nested system remains visible, but its own lawful work is frozen out.
+That is another form of lock.
+A local or institutional system may lock the person inside procedure. A prison system, school system, benefits office, licensing board, agency process, court docket, or administrative classification may become a closed surface. The person is inside the system, but the whole constitutional body no longer seems reachable through it.
+That too is lock.
+Lock is different from drift. Drift is scale mislocation. Lock is scale hardening.
+In lock, a boundary that should remain passable in the right way becomes rigid in the wrong way. The state boundary becomes a wall. The federal rule becomes a clamp. The local procedure becomes a trap. The institution becomes a closed room.
+Federalism requires boundaries. It does not require open flow everywhere. A state boundary should matter. A local process should matter. Federal authority should matter. Procedure should matter.
+But a lawful boundary is not the same as capture.
+A lawful boundary preserves the scale relation.
+A locked boundary breaks it.
+The Federalism question is:
+Has one scale hardened so strongly that the person or another lawful scale can no longer move through it?
+If yes, Federalism is under lock pressure.
+Why the Five Shapes Matter
+These five shapes help us see Federalism failure without collapsing every dispute into one argument.
+Dissolution asks whether the constitutional body is fragmenting.
+Shear asks whether the person is falling between layers.
+Drift asks whether a scale is acting from the wrong level.
+Echo asks whether responsibility is circulating without ownership.
+Lock asks whether one scale has hardened into a wall.
+Each failure tells us something different.
+A person passed endlessly between agencies is not facing the same Federalism failure as a state flattened into federal machinery. A local system trapping a person inside procedure is not the same as incompatible commands splitting an institution across state and national rules. A state preserving its lawful boundary is not the same as a state using its boundary to block the person’s claim on the whole.
+The distinctions matter because repair depends on the shape of failure.
+Dissolution calls for restoring one-body carry.
+Shear calls for rejoining authority, responsibility, remedy, and accountability.
+Drift calls for returning a scale to its lawful level.
+Echo calls for ownership.
+Lock calls for reopening lawful passage without erasing real boundaries.
+Federalism needs a failure profile, not a single complaint.
+The constitutional body can fail by scale in more than one way. If we name only “overreach,” we may miss abandonment. If we name only “states’ rights,” we may miss boundary capture. If we name only “national supremacy,” we may miss flattening. If we name only “local control,” we may miss the person trapped inside the local.
+The five shapes keep the object honest.
+They also return us to the central question:
+Does public power, as it changes scale, still carry the person through real nested systems as part of one constitutional body?
+If the answer is no, the next question is not only who wins.
+The next question is:
+What kind of Federalism failure are we seeing?
+Once that question is available, familiar doctrines can be read more clearly. They do not disappear. They become surfaces where these scale failures, or scale repairs, appear.
+6. What Familiar Doctrines Look Like Now
+Once Federalism is understood as scale discipline, familiar doctrines do not disappear.
+They become more legible.
+The point is not to replace doctrine with a new vocabulary. Doctrine still matters. Text matters. History matters. Precedent matters. Institutional design matters. Procedure matters. Legal authority still has to be worked through carefully.
+But the doctrines can now be heard as surfaces of one deeper problem:
+Does public power, as it changes scale, preserve one constitutional body without flattening its nested systems, while carrying the person through those systems as a full member of the whole?
+That question changes how the familiar doctrines sound.
+Incorporation
+Incorporation asks why national constitutional protections apply against state governments.
+In ordinary terms, the question can sound like this:
+Why does the federal Constitution reach into state authority?
+That is a real legal question. But under the scale-discipline view, another question appears underneath it:
+How could a state reach the person as though the whole constitutional body were absent?
+A state is real. Its authority matters. Its boundary matters. Its courts, agencies, officers, procedures, and institutions are not fake. But the state is not the whole constitutional body.
+So when a state acts on a person, the person does not stop belonging to the whole.
+The person does not become only state-level.
+The person does not leave the larger constitutional order because the immediate actor is state or local rather than federal.
+That means incorporation can be heard as whole-corpus continuity.
+It is not merely national intrusion into state space. It is one way the constitutional body refuses to let the person disappear inside a nested system.
+This does not decide every incorporation question. It does not tell us automatically which protection applies, how broadly, or by what doctrinal route. But it changes the starting picture.
+The question becomes:
+What protections must travel with the person through every nested public system?
+And its reverse:
+When a state acts, what would it mean for the state to treat the person as though the whole constitutional body had no claim there?
+That is the Federalism question inside incorporation.
+Anti-Commandeering
+Anti-commandeering asks why the national layer cannot simply command state officials to administer federal programs.
+If the nation is one constitutional body, why can’t the national layer use state systems as its tools?
+Under the scale-discipline view, the answer begins here:
+Nested systems have to remain real.
+A state is not just a convenient office of the national government. Its officers, procedures, institutions, and internal authority surfaces cannot become federal machinery whenever the national layer wants local reach.
+If that happens, the system may preserve national power while destroying the nested system Federalism is supposed to keep real.
+That is flattening.
+So anti-commandeering starts to look less like obstruction and more like protection of scale.
+It says: the whole is real, but the nested system is also real. The nation cannot preserve the whole by pretending the nested systems inside it are fake.
+That does not make the national layer weak. It does not mean national law has no force. It does not mean states may disregard constitutional obligation. It means the method of national action matters because scale matters.
+The Federalism question becomes:
+When does national coordination become federal flattening?
+That question is sharper than “federal good” or “state good.” It asks whether the whole is preserving the constitutional body while still respecting the lawful reality of the systems inside it.
+Preemption
+Preemption asks when federal law overrides state law.
+It is often heard as hierarchy:
+Federal wins. State loses.
+Sometimes that may be the right legal result. But structurally, preemption is more precise than that.
+If the constitutional order is one body with many nested systems, then multiple layers may sometimes reach the same person, conduct, market, institution, or legal surface. When that happens, the system needs a way to preserve coherence.
+A person, business, agency, institution, or public actor cannot always be held under incompatible commands from different scales without the civic body losing coherence. Sometimes the whole has to say: these layers cannot bind the same surface in conflicting ways.
+In that sense, preemption can be whole-corpus coordination.
+But preemption has a failure risk too.
+If it becomes too broad, too casual, or too eager, preemption can flatten nested systems. The national layer can harden into control. State and local systems may remain visible, but their lawful work is locked out.
+So the question is not only:
+Does federal law win?
+The better Federalism question is:
+Is preemption preserving coherence, or is it locking nested systems out of their lawful work?
+That question keeps both faces alive.
+Whole-corpus coherence matters.
+Nested-system reality matters.
+Preemption is healthy only when it preserves the one without erasing the other.
+State Sovereignty
+State sovereignty is one of the hardest Federalism phrases because it can carry two very different meanings.
+Sometimes it names something real.
+If states are genuine nested civic systems, then they must have real authority. A real boundary has an inside face. A state must be able to govern, legislate, administer, adjudicate, tax, regulate, enforce, and maintain public order within its lawful sphere.
+If that inside face is denied entirely, the state is not a nested system. It is only a local office of the national layer.
+So state sovereignty matters.
+But it cannot be absolute.
+A state is not a separate constitutional world. It exists inside the constitutional body. Its boundary is real, but it is not a wall against the person’s membership in the whole.
+That means state sovereignty splits in two.
+It can be a lawful boundary claim:
+This nested system has real authority and cannot be erased.
+Or it can become boundary capture:
+This nested system is using its boundary to block the person’s claim on the whole constitutional body.
+Those are not the same.
+A lawful boundary preserves Federalism.
+Boundary capture fails Federalism.
+This distinction is one of the most useful things the scale-discipline view gives us. It prevents “state sovereignty” from becoming either automatically noble or automatically suspect.
+The question becomes:
+Is the state preserving a real nested system, or is it using its boundary to keep the person from being held by the whole?
+That is the Federalism question inside state sovereignty.
+Civil-Rights Enforcement
+Civil-rights enforcement often raises the opposite concern.
+When may the national layer intervene against state or local failure?
+If Federalism is only a fight among governments, the question can sound like intrusion:
+Why is the national government entering state or local space?
+But if the person remains held by the whole constitutional body at every scale, the question changes.
+When a nested system fails the person, national action may be whole-corpus repair.
+A state may be real. A local system may be real. A police department, school district, court system, prison system, benefits office, election system, or public agency may be real. But none of them should be able to injure, exclude, silence, degrade, misrecognize, or abandon the person as though the whole constitutional body has no claim on the matter.
+Civil-rights enforcement can therefore be understood as the whole body responding when a nested system cannot or will not preserve the person as a full member of the whole.
+But this face has its own danger.
+Repair can become occupation.
+Protection can become flattening.
+Whole-body response can become national overreach.
+So civil-rights enforcement is not automatically justified simply because it travels from the national layer. The same scale discipline still applies.
+The question becomes:
+When does whole-corpus repair preserve the person without flattening the local system?
+That is the Federalism question inside civil-rights enforcement.
+“States’ Rights”
+The phrase “states’ rights” also splits under this account.
+Sometimes it names a real constitutional concern. A state may be protecting a lawful boundary. It may be preserving local authority, local conditions, local institutions, local responsibility, and local democratic life against central flattening.
+That can be legitimate.
+But “states’ rights” can also be used as a boundary word that blocks the person’s claim on the whole constitutional body. It can become a way for a nested system to say:
+The whole cannot reach this person here.
+That is not lawful boundary preservation.
+That is boundary capture.
+So the question cannot be:
+Are states’ rights good or bad?
+The question has to be:
+Is the state preserving a lawful nested system, or blocking the person’s membership in the whole?
+That distinction matters because Federalism should not be reduced to slogans.
+“States’ rights” is not automatically noble.
+“States’ rights” is not automatically corrupt.
+The structural question is what the phrase is doing in the scale relation.
+National Power
+National power splits in the same way.
+Sometimes national power preserves the whole constitutional body. It protects shared membership. It prevents local exclusion. It preserves national rights, national markets, national memory, national rule, and national coherence. It acts when nested systems fail, fragment, discriminate, or trap persons inside local power.
+That can be necessary.
+But national power can also flatten.
+It can treat states, local governments, institutions, and communities as if their boundaries are not real. It can centralize too much. It can convert local systems into instruments. It can erase local perception, local responsibility, and local variation.
+So national power is not automatically repair.
+It is also not automatically overreach.
+The Federalism question is:
+Is the national layer preserving the whole, or pretending it is the whole?
+That distinction is essential.
+Federalism as scale discipline cannot be built from automatic suspicion of national power. It also cannot be built from automatic trust in national power.
+The question is scale-specific.
+Does national action preserve the person across nested systems, or does it erase the systems that help carry the person locally?
+Doctrine as Surface
+These examples show why doctrine matters, but also why doctrine is not the center.
+Incorporation, anti-commandeering, preemption, state sovereignty, civil-rights enforcement, states’ rights, and national power are not random topics sitting beside each other. They are surfaces where the same scale burden appears.
+Each asks, in its own way:
+* Can the constitutional body remain one without becoming flat?
+* Can nested systems remain real without becoming separate wholes?
+* Can the person remain carried across scale without losing membership in the whole?
+When doctrine is read this way, Federalism becomes less like a contest of labels and more like a diagnostic question about scale.
+The point is not to decide every legal outcome in advance.
+The point is to ask the right scale question before outcome language takes over.
+A state claim may preserve Federalism, or it may fail Federalism.
+A national claim may preserve Federalism, or it may fail Federalism.
+A local practice may preserve Federalism, or it may fail Federalism.
+A doctrine may carry one face of Federalism while endangering the other.
+That is why the familiar doctrines have to be read through the dual-faced hold.
+If a doctrine preserves nested-system reality but cuts the person off from the whole, it is incomplete.
+If a doctrine carries the person through the whole but erases nested systems, it is incomplete.
+If a doctrine coordinates scale without flattening, fragmenting, trapping, or abandoning the person, it may be doing real Federalism work.
+That is the shift.
+Federalism doctrine is not just a set of legal tools for deciding which government wins.
+It is a set of surfaces where constitutional scale either holds or fails.
+The doctrines do not disappear.
+They reorganize around the scale burden they express.
+That reorganization also lets us clear a second mistake: treating one doctrine, slogan, or institutional surface as though it were the whole of Federalism.
+7. What Federalism Is Not
+Federalism becomes harder to understand when one of its surfaces is mistaken for the whole object.
+That mistake is common because the surfaces are real. State sovereignty is real. National supremacy is real. Division of powers is real. Local control is real. Incorporation, anti-commandeering, preemption, civil-rights enforcement, and intergovernmental relations are real.
+The problem is not that these terms are fake.
+The problem is that none of them is Federalism by itself.
+Each carries part of the scale burden. None carries the whole dual-faced hold.
+That distinction matters because a partial truth can become misleading when it is treated as the whole.
+Federalism Is Not State Sovereignty Alone
+State sovereignty names something real.
+A state is not an imaginary public actor. It has real authority, real institutions, real boundaries, real procedures, and real public responsibilities. If states were not real nested systems, the constitutional order would be flat.
+So Federalism must preserve state reality.
+But state sovereignty alone cannot carry Federalism.
+A state can preserve a lawful boundary, or it can use its boundary as a wall. It can govern as a real nested system, or it can act as though the person inside it has been cut off from the larger constitutional body.
+That is the difference between boundary and capture.
+Federalism needs the state to be real.
+It also needs the person to remain held by the whole.
+State sovereignty alone can name the first burden. It cannot carry the second by itself.
+So state sovereignty is a face of Federalism, not the whole object.
+Federalism Is Not National Supremacy Alone
+National supremacy also names something real.
+A constitutional republic must remain one body. It cannot allow every nested system to become a separate constitutional world. There must be some way for shared constitutional command, shared membership, shared rights, shared memory, and shared public constraint to hold across the whole.
+So Federalism must preserve whole-corpus coherence.
+But national supremacy alone cannot carry Federalism either.
+If the national layer treats every nested system as a mere instrument, the constitutional body may remain one only by becoming flat. States, local systems, institutions, and communities may still exist, but their lawful boundaries no longer matter.
+That is not Federalism holding.
+That is Federalism flattening.
+National supremacy can name the whole-corpus burden. It cannot, by itself, preserve nested systems as real.
+So national supremacy is also a face of Federalism, not the whole object.
+Federalism Is Not Division of Powers Alone
+Federalism is often described as a division of power between national and state governments.
+That description is useful, but it is too thin.
+Division tells us that authority has been allocated. It may tell us who can regulate, who can enforce, who can review, who can resist, or who can prevail.
+But Federalism is not only allocation.
+A chart can divide authority without showing whether the person remains carried by the whole through real nested systems. A statute can assign tasks without showing whether responsibility, remedy, and accountability still carry together. A doctrine can allocate power without showing whether scale remains lawful.
+Federalism asks a deeper question:
+Does the division of power preserve one constitutional body without flatness, many nested systems without fragmentation, and the person across scale without loss of whole-corpus membership?
+If not, the division may be legally important, but it has not yet carried the full Federalism burden.
+Federalism Is Not a Doctrine Cluster
+Federalism appears through doctrine.
+That is where many people meet it. Incorporation, anti-commandeering, preemption, sovereign immunity, reserved powers, spending conditions, intergovernmental immunity, and related doctrines all matter.
+But a doctrine cluster is not the object.
+A cluster can show where Federalism appears. It cannot by itself explain what makes those appearances one thing.
+Without the underlying scale discipline, the doctrines can look like disconnected legal fights. One doctrine seems to favor the national layer. Another seems to protect the state. Another manages conflict. Another limits command. Another carries rights across state action.
+The scale-discipline view explains why these doctrines belong in the same family.
+They are different surfaces of the same question:
+Does public power remain lawful as it changes scale?
+So doctrine is not discarded. It is reorganized.
+The doctrines are expressions of Federalism. They are not Federalism itself.
+Federalism Is Not Local Control Alone
+Local control can be real and valuable.
+Local systems may see what distant systems miss. They may preserve proximity, variation, democratic participation, local knowledge, and public responsibility at a human scale.
+That is a real Federalism face.
+But local control alone cannot carry the whole object.
+A local system can protect the person. It can also trap the person. It can respond to local conditions. It can also become a place where the person is reduced to local status, local procedure, local classification, or local neglect.
+Local control becomes Federalism only when it remains part of one constitutional body.
+If local control cuts the person off from the whole, it is no longer preserving Federalism. It is failing Federalism.
+So local control is a nested-system expression, not the whole object.
+Federalism Is Not Civil-Rights Enforcement Alone
+Civil-rights enforcement carries another real Federalism face.
+When a nested system fails the person, the whole constitutional body may need to respond. A state, city, agency, court system, police department, school district, or prison system should not be able to injure or exclude the person as though the larger constitutional order has no claim there.
+So civil-rights enforcement can be whole-corpus repair.
+But repair is not the whole of Federalism.
+If repair becomes flattening, it can erase the nested systems it is supposed to correct. If national enforcement treats every local or state system as merely defective machinery, then the person may be protected through power that no longer respects lawful scale.
+That creates another failure.
+Federalism needs whole-corpus repair when nested systems fail the person.
+It also needs repair to preserve nested-system reality.
+Civil-rights enforcement names a repair surface. It is not the whole scale discipline.
+Federalism Is Not Incorporation Alone
+Incorporation is one of the clearest person-continuity surfaces.
+It says, in effect, that the person does not leave the whole constitutional body when the state acts. National constitutional protections can travel through state action because the person remains a member of the whole.
+That is deeply Federalism-relevant.
+But incorporation alone does not preserve nested-system reality.
+If Federalism were only incorporation, state systems would appear mainly as sites where national rights must travel. That would miss the other face: states and local systems are not merely danger zones for rights. They are real nested public systems with lawful work to do.
+Incorporation carries the person-continuity face.
+It does not, by itself, carry the full dual-faced hold.
+Federalism Is Not Anti-Commandeering Alone
+Anti-commandeering carries the opposite face.
+It protects nested systems from becoming federal instruments. It insists that the national layer cannot preserve the whole by conscripting state machinery as though state systems were not real.
+That is also deeply Federalism-relevant.
+But anti-commandeering alone does not carry person-continuity across scale.
+If Federalism were only anti-commandeering, national repair and incorporation could look like intrusions rather than whole-corpus continuity. The person’s claim on the whole would be too easy to lose inside the nested boundary.
+Anti-commandeering carries the nested-system-reality face.
+It does not, by itself, carry the full dual-faced hold.
+Federalism Is Not Preemption Alone
+Preemption manages conflict between layers.
+Sometimes that is necessary. A constitutional body cannot always allow incompatible commands to bind the same person, institution, market, or legal surface. The whole may need a way to preserve coherence.
+So preemption can be real Federalism work.
+But preemption is a coordination doctrine, not the whole object.
+If preemption is too weak, the person or institution may be split across conflicting commands. If preemption is too strong, the national layer may flatten lawful state or local work.
+Preemption asks how conflicts between levels are resolved.
+Federalism asks whether the resolution preserves lawful scale.
+That is a larger burden.
+Federalism Is Not Intergovernmental Relations Alone
+Federalism involves relations among governments, but it is not only relations among governments.
+This may be the most important correction.
+If Federalism is heard only as intergovernmental relations, the person can disappear. The analysis becomes federal government here, state government there, local government somewhere else, agency authority in one place, court authority in another.
+That map may be accurate and still incomplete.
+From the person’s side, Federalism is lived as movement through public systems.
+The person is the one carried across scale.
+A government-to-government account can describe the machinery. It may not tell us whether the person remains held by the whole while moving through that machinery.
+So intergovernmental relations are part of Federalism’s visible structure.
+They are not the object-center.
+The Partial Truths Are Real
+This is the point to hold.
+The substitutes are not useless.
+They are not fake.
+They are not mistakes simply because they are partial.
+State sovereignty protects nested-system reality.
+National supremacy protects whole-corpus coherence.
+Division of powers allocates authority.
+Doctrine gives legal form.
+Local control protects proximity and variation.
+Civil-rights enforcement repairs nested-system failure.
+Incorporation carries protections through state action.
+Anti-commandeering protects states from federal flattening.
+Preemption manages conflict between layers.
+Intergovernmental relations describe the machinery among public actors.
+Each matters.
+But none carries the whole object while remaining itself.
+Federalism is the scale discipline that explains why these surfaces belong together and why each can fail when it is treated as the whole.
+So when someone says “Federalism,” the first question should not be:
+Which slogan do they prefer?
+The better question is:
+* Are they preserving the full scale hold, or only one face of it?
+* Are they preserving one constitutional body without flatness?
+* Are they preserving many nested systems without fragmentation?
+* Are they preserving the person across scale without loss of whole-corpus membership?
+If the answer is yes, they may be doing Federalism work.
+If the answer is no, they may be using Federalism language while carrying only a partial surface.
+That is why this section matters.
+It clears the ground.
+Federalism is not any one of its familiar substitutes.
+Federalism is the discipline that lets those partial truths remain lawful together.
+8. Why Separation of Powers Does Not Absorb Federalism
+Federalism is not the only constitutional discipline that prevents public power from collapsing into something dangerous.
+Separation of Powers does that too.
+The distinction matters because the two disciplines fail differently.
+If Federalism were just another version of anti-concentration, then it might not need to be named as its own object. It could be treated as a branch of the same basic idea: keep public power divided so no single site can absorb the whole.
+There is truth in that.
+Federalism and Separation of Powers are close relatives. Both resist collapse. Both protect the constitutional order from power becoming too concentrated, too unanswerable, or too confused. Both help prevent one public actor from becoming the whole public order by itself.
+But they do not discipline the same thing.
+Separation of Powers disciplines function.
+Federalism disciplines scale.
+That is the difference.
+Separation of Powers asks whether lawmaking, execution, adjudication, and related public functions remain differentiated strongly enough that one function does not absorb the others.
+Federalism asks whether national, state, local, administrative, institutional, and other nested public scales remain related strongly enough that the whole does not become flat, the parts do not become separate worlds, and the person does not get lost between them.
+Those are adjacent problems. They are not the same problem.
+A republic can fail by function.
+A legislature may try to exercise executive power. An executive may try to legislate by command. A court may drift into administration. An agency may combine rulemaking, enforcement, and adjudication in ways that raise serious constitutional pressure. One functional site may begin to carry more than it lawfully should.
+That is Separation of Powers territory.
+The core question is:
+Has one public function absorbed, displaced, or confused another?
+Federalism asks a different question.
+A state may act as though it were a separate constitutional whole. The national layer may treat state and local systems as mere instruments. A city, agency, prison system, benefits office, or school district may trap the person inside local procedure. Responsibility may bounce between federal, state, local, and administrative layers without any scale carrying the person as part of one constitutional body.
+That is Federalism territory.
+The core question is:
+Has one public scale flattened, fragmented, trapped, or lost the person across the nested whole?
+The distinction can be seen by comparing the failures.
+When Separation of Powers fails, public function misbehaves.
+A branch or office may act from the wrong functional role. It may make, enforce, interpret, or administer public constraint in a way that collapses the functional structure of government. The danger is not only bad policy. The danger is functional absorption: one function taking over the work that must remain differentiated.
+When Federalism fails, public scale misbehaves.
+A layer may act from the wrong scale. A state may act like the whole. The national layer may erase nested systems. A local system may treat the person as only local. An agency may pass the person into another layer without responsibility. A boundary may harden into a wall.
+The danger is not only concentrated power.
+The danger is unlawful scale: the whole, the nested systems, and the person no longer carry together.
+That is why Separation of Powers cannot absorb Federalism while remaining itself.
+To absorb Federalism, Separation of Powers would have to do more than preserve functional differentiation. It would have to preserve real nested systems, whole-corpus personhood, lawful movement across public scale, anti-flattening, anti-fragmentation, and the person’s continuity through layered authority.
+At that point, it would no longer be only Separation of Powers.
+It would have imported Federalism.
+This does not make Separation of Powers less important. It makes it more precise.
+Separation of Powers tells us that public power must not collapse functionally.
+Federalism tells us that public power must not collapse by scale.
+Both are constitutional disciplines. Both matter. But each names a different way public power can lose lawful form.
+A simple example may help.
+Suppose a national executive actor tries to make binding rules, enforce those rules, and decide disputes under those rules without meaningful legislative or judicial constraint. That is a functional problem. The executive function may be absorbing lawmaking and adjudicative burdens. Separation of Powers is the clearer lens.
+Now suppose a national program requires state officers to administer federal commands in a way that turns the state system into federal machinery. That may involve executive power too, but the Federalism problem is not mainly that one branch has absorbed another. The problem is that one scale has flattened another. The nested system is no longer being preserved as real.
+Different failure. Different discipline.
+Or suppose a state court applies state procedure in a way that cuts off a person’s federal constitutional claim. That may involve judicial process. But the Federalism problem is scale-specific: the person is being handled inside a nested system as though membership in the whole constitutional body has vanished.
+Again, different failure. Different discipline.
+Or suppose a local agency tells a person that the state has responsibility, the state says the federal program controls, the federal office says local administration is responsible, and the court says the agency record is incomplete. The problem may involve procedure, administration, and legal review. But the Federalism failure is shear or echo across scale: the person falls between layers, or responsibility circulates without ownership.
+Separation of Powers does not give the cleanest name for that failure.
+Federalism does.
+This distinction also helps prevent an overly general anti-power account.
+It is tempting to say that all constitutional structure is about preventing power from becoming too concentrated. That is partly true, but too broad. It can flatten the differences among constitutional disciplines.
+Power can concentrate functionally.
+Power can centralize by scale.
+Power can harden procedurally.
+Power can misclassify persons.
+Power can refuse recognition.
+Power can dissolve memory.
+Those are not all the same failure.
+A serious constitutional method should not treat every structural safeguard as a different costume for the same anti-concentration idea. Sometimes the problem is functional collapse. Sometimes the problem is scale collapse. Sometimes both appear at once.
+When they appear together, the distinction becomes more important, not less.
+A federal agency may raise Separation of Powers questions and Federalism questions in the same dispute. A court may have to ask both whether executive authority has exceeded its function and whether federal action has flattened state administration. A civil-rights enforcement scheme may raise questions about national power, state systems, judicial remedies, and legislative authorization all at once.
+The point is not to choose one discipline and ignore the others.
+The point is to keep each discipline doing its own work.
+Separation of Powers should not be asked to answer every scale problem.
+Federalism should not be asked to answer every functional problem.
+If a public actor is using the wrong function, ask the Separation of Powers question.
+If public power changes scale and the whole, the nested systems, and the person no longer carry together, ask the Federalism question.
+This is why Federalism remains distinct.
+It is not absorbed by Separation of Powers because function and scale are different constitutional burdens.
+A branch is not a scale.
+A state is not a branch.
+A local system is not merely a function.
+A federal agency may perform a function, but it may also operate across scale. A court may adjudicate, but it may also mediate the relation between whole-corpus membership and nested-system authority. A legislature may allocate power, but that allocation may still fail if it fragments the person across public layers.
+Federalism names the scale burden that remains after functional analysis has done its work.
+The clean distinction is this:
+Separation of Powers asks whether one public function has absorbed the others.
+Federalism asks whether one public scale has flattened, fragmented, trapped, or lost the person across the nested whole.
+That distinction lets both doctrines become sharper.
+A republic can fail by function.
+A republic can fail by scale.
+Federalism names the scale failure.
+That distinction also helps mark the boundary of this artifact. Federalism should not be asked to absorb every neighboring constitutional burden.
+9. Scope Note and Boundary Cases
+This account has a boundary.
+Federalism, as this artifact is using the term, names the scale discipline of constitutionally internal nested public systems. It concerns the relation among the whole constitutional body, the nested public systems inside it, and the person carried through those systems as a full member of the whole.
+That is already a large claim.
+It does not need to become larger than it is.
+The account helps us read states, local governments, courts, agencies, offices, districts, administrative systems, public institutions, and many ordinary Federalism doctrines. It helps explain why incorporation, anti-commandeering, preemption, state sovereignty, national power, local control, and civil-rights enforcement are not disconnected topics. They are surfaces where constitutional scale either holds or fails.
+But not every public-scale problem is ordinary Federalism.
+Some cases sit at the boundary of this account. They may touch Federalism. They may stress it. They may expose important scale problems. But they should not be casually absorbed into this object as though they were simple examples of the same internal nesting.
+Two boundary cases require special care.
+Tribal sovereignty is one.
+Private delegated public power is another.
+Tribal Sovereignty
+Tribal sovereignty should not be treated as ordinary nested-system Federalism.
+Tribes are not simply local governments. They are not merely state subdivisions. They are not just another administrative layer inside the constitutional body. Their legal, historical, sovereign, and treaty relations require separate treatment.
+That does not mean Federalism has nothing to say nearby.
+Federalism may still matter when federal, state, tribal, local, and individual claims meet. Public power may still change scale. Persons may still move through overlapping authority surfaces. Responsibility may still shear, echo, drift, or lock. The whole may still need to preserve lawful relation among different public powers.
+But tribal sovereignty is not safely handled by saying, “tribes are another nested public system.”
+That would flatten the very thing that needs care.
+So this artifact does not claim to resolve tribal sovereignty.
+It marks tribal sovereignty as a boundary position requiring separate work.
+That is not a retreat. It is scope discipline.
+A serious method should be able to say: this object helps here, but it does not decide everything here.
+Private Delegated Public Power
+Private delegated public power is also a boundary case.
+Modern public life often runs through private or hybrid actors: contractors, platforms, service providers, prison operators, insurers, schools, hospitals, data systems, benefit administrators, licensing intermediaries, and other private entities that may carry public consequence.
+These actors may not be formal public scales in the ordinary constitutional sense. Yet they can still affect access, recognition, remedy, status, classification, movement, record, eligibility, discipline, or public benefit.
+That creates a serious problem.
+If a private actor is exercising public consequence, the person may experience public power through a surface that is not clearly public in form. Responsibility can shear between government and contractor. Accountability can echo between agency and provider. Procedure can lock the person inside a private system. Public duty can drift into private administration. A person can be handled as though constitutional membership disappears behind delegation.
+Those are real dangers.
+But they are not automatically ordinary Federalism.
+Federalism concerns constitutional public scale. Private delegated public power may require a neighboring account of authorization, delegation, public function, accountability, and the boundary between public duty and private operation.
+So this artifact does not claim that private delegated public power is fully decided by Federalism as scale discipline.
+It says something narrower:
+When delegated private power carries public consequence, Federalism may help identify scale failure, especially when government uses delegation to evade responsibility or when the person is passed between public and private actors without ownership. But the full object is not resolved here.
+Private delegated public power is a boundary/interface case.
+It needs its own treatment.
+Other Hard Cases
+Several other surfaces also require care.
+Immigration and membership questions often touch Federalism, but they are not only Federalism. They involve who is held by the constitutional body, in what way, at what boundary, and under what conditions. States and localities may participate. Federal power may dominate. The person may move through nested systems. But the core question may be membership, entry, exclusion, status, or protection at the civic boundary.
+That is adjacent to Federalism.
+It is not always reducible to Federalism.
+Emergency power and military authority also stress the account. Emergencies can compress scale. Military force can alter ordinary civil relations. Federalization can shift authority quickly. Public force can move faster than normal public process. These cases may produce Federalism failures, but they also involve a separate burden: how public force remains lawful, bounded, proportionate, accountable, and temporary under pressure.
+Again, Federalism may help.
+It does not decide the whole object alone.
+Territories create another hard surface. Territorial status can test whether the person remains held by the whole when the public system is neither state nor ordinary local structure. Territories may expose shear, drift, or incomplete membership. They should not be treated as simple state analogues without further work.
+Market-union and commerce cases can also sit at an interface. They may involve national coherence, state regulation, local variation, economic integration, and persons or institutions caught between commands. Federalism helps ask whether scale is preserving coherence or flattening nested authority. But some of the deeper work may belong to economic-field structure, market integration, or constitutional membership in a national commercial order.
+The point is not to make a long list of exceptions.
+The point is to keep the claim honest.
+Federalism as scale discipline is powerful because it is specific. If it tries to explain every public-scale problem by itself, it becomes less trustworthy, not more.
+Why Scope Strengthens the Claim
+A scoped claim can be tested.
+An unbounded claim can only expand.
+This artifact is not trying to make Federalism swallow every neighboring object. It is trying to name the object Federalism actually is.
+That object is already demanding enough.
+Federalism has to preserve one constitutional body without flatness. It has to preserve many nested public systems without fragmentation. It has to carry the person across scale without loss of whole-corpus membership.
+That is the claim.
+When a case fits that structure, Federalism can do real diagnostic work.
+When a case partly fits but also involves tribal sovereignty, private delegated public power, membership, emergency force, military authority, territorial status, or market-union structure, the method should not pretend the neighboring burden has vanished.
+It should say:
+Federalism is involved, but not alone.
+That is not weakness.
+That is accuracy.
+A person can stand at the intersection of multiple constitutional objects. A single dispute can involve scale discipline, due process, equal protection, separation of powers, membership, public force, delegation, or economic integration. The right response is not to force one object to do all the work.
+The right response is to keep the objects distinct enough that each can carry its own burden.
+Federalism does not replace those neighboring disciplines.
+It gives one of them a clearer shape.
+The Boundary of This Artifact
+This artifact therefore makes a scoped claim:
+Federalism is the scale discipline of constitutionally internal nested public systems.
+It explains how one constitutional body can remain one without becoming flat, how nested public systems can remain real without becoming separate wholes, and how the person can remain carried across scale without losing membership in the whole.
+It does not claim:
+* that tribal sovereignty is ordinary Federalism;
+* that private delegated public power is ordinary Federalism;
+* that immigration or membership is solved by Federalism alone;
+* that emergency or military authority is solved by Federalism alone;
+* that territories are simple state analogues;
+* that commerce or market-union questions are only Federalism questions;
+* or that every hard case can be decided by repeating the compression.
+The compression is a test, not a machine.
+Does this preserve one corpus without flatness, many nested systems without fragmentation, and the person across scale without loss of whole-corpus membership?
+That question does real work.
+But when the answer depends on a boundary object, the boundary object must be named.
+That is the discipline.
+Federalism should not flatten its neighbors while arguing against flattening.
+It should model the same restraint it asks of public power.
+Scope discipline is therefore not a retreat from the claim.
+It is what keeps the claim honest.
+10. What This Makes Available
+Understanding Federalism as scale discipline does not solve every Federalism dispute.
+It does something more basic.
+It gives Federalism a clearer object.
+That matters because many Federalism arguments begin too late. They begin with doctrine, outcome, level of government, or preferred institutional actor. They ask whether the state wins, whether the national government wins, whether local control should prevail, whether national uniformity is necessary, or whether a particular doctrine points one way or another.
+Those questions may matter.
+But they can be asked before the real Federalism burden has been named.
+If Federalism is scale discipline, the first question becomes:
+Does this preserve one constitutional body without flatness, many nested public systems without fragmentation, and the person across scale without loss of whole-corpus membership?
+That question does not decide the case.
+It locates the burden.
+It tells us what kind of constitutional problem we are handling before outcome language takes over.
+It Gives “States’ Rights” a Test
+The phrase “states’ rights” has always been difficult because it can carry real constitutional structure or hide real constitutional failure.
+Sometimes state authority is preserving a real nested system. The state is not fake. Its boundary matters. Its institutions matter. Its internal public life matters. Its local knowledge, responsibility, and democratic structure may be doing lawful work.
+In those cases, state authority may be Federalism-preserving.
+But sometimes the same language becomes boundary capture. A state may use its real boundary to block the person’s claim on the whole constitutional body. It may treat the person as only state-level, only local, only procedural, or only subject to that nested system’s final say.
+In those cases, state authority is not preserving Federalism.
+It is failing Federalism.
+The scale-discipline account gives us the test:
+Is the state preserving a real nested system, or is it using its boundary to keep the person from being carried by the whole?
+That is a better question than whether “states’ rights” is good or bad in the abstract.
+It forces the phrase to pay its structural cost.
+It Gives National Power a Test
+The same is true for national power.
+National action is not automatically repair.
+It is also not automatically overreach.
+Sometimes national power preserves the whole constitutional body. It prevents fragmentation. It carries shared membership. It protects persons against local exclusion. It coordinates conflicting commands. It preserves national memory, national obligation, and national constitutional constraint.
+In those cases, national action may be Federalism-preserving.
+But sometimes national power flattens. It treats nested systems as mere instruments. It converts local authority into central machinery. It treats state and local boundaries as obstacles rather than as real constitutional structures. It uses the language of unity to erase the systems through which public life is actually carried.
+In those cases, national action fails Federalism.
+The scale-discipline account gives us the test:
+Is the national layer preserving the whole, or pretending it is the whole?
+That question keeps national power from being either automatically trusted or automatically feared.
+It asks what the power is doing to scale.
+It Makes Doctrines More Coherent
+This account also helps explain why familiar Federalism doctrines belong together.
+Without the scale object, incorporation, anti-commandeering, preemption, state sovereignty, local control, civil-rights enforcement, spending conditions, and intergovernmental relations can feel like a pile of separate doctrines.
+Some seem to favor national authority.
+Some seem to protect states.
+Some manage conflict.
+Some preserve rights.
+Some limit command.
+Some protect institutional boundaries.
+The scale-discipline account gives them a shared center.
+Incorporation asks whether the person remains held by the whole when state power acts.
+Anti-commandeering asks whether nested systems remain real against federal flattening.
+Preemption asks whether the whole is preserving coherence or locking nested systems out of lawful work.
+State sovereignty asks whether a boundary is lawful or captured.
+Civil-rights enforcement asks whether whole-corpus repair preserves the person without flattening local systems.
+Intergovernmental relations ask how public actors relate, but Federalism asks whether the person remains carried through those relations.
+The doctrines do not become simple.
+They become better located.
+That is a real gain.
+It Separates Scale Failure from Other Constitutional Failures
+Not every constitutional problem is a Federalism problem.
+That may sound obvious, but in practice the lines can blur.
+A dispute may involve due process, equal protection, separation of powers, administrative law, membership, public force, delegation, or economic integration. Federalism may be present, but it may not be the only object doing work.
+The scale-discipline account helps sort this.
+If one public function absorbs another, the clearer problem may be Separation of Powers.
+If a person is deprived without lawful treatment, the clearer problem may be Due Process.
+If public classification degrades or excludes persons, the clearer problem may be Equal Protection.
+If the question is who belongs to the constitutional body, the clearer problem may be membership.
+If public force accelerates, compresses, or overrides ordinary civic process, the clearer problem may involve emergency or military authority.
+Federalism becomes central when public power changes scale and the whole, the nested systems, and the person no longer carry together.
+That distinction keeps Federalism from becoming a universal label.
+It also keeps neighboring disciplines from being blurred into Federalism.
+A serious constitutional account needs both.
+It Gives Later Civics Work a Cleaner Diagnostic Surface
+It also matters for later civic evaluation.
+If Federalism is only a doctrine cluster, then Federalism-facing civic cases are difficult to classify. A case might involve state authority, national supremacy, local control, preemption, civil-rights enforcement, or administrative overlap. Without a deeper object, those surfaces can pull in different directions.
+But if Federalism is scale discipline, then later diagnostic work can ask a cleaner question:
+* Where is the scale burden?
+* Is the case preserving lawful scale, degrading lawful scale, or crossing into scale failure?
+* Is the failure dissolution, shear, drift, echo, or lock?
+* Does the object thicken the constitutional body’s ability to carry the person through nested systems, or does it thin that carry?
+* Does it preserve nested-system reality, or flatten it?
+* Does it preserve whole-corpus membership, or fragment it?
+Those questions do not produce a score by themselves.
+They give later scoring or case-resolution work a more stable object to handle.
+That matters because civic evaluation often fails when it starts with labels instead of objects. It treats “Federalism” as a topic rather than asking what Federalism is doing structurally in the case.
+This artifact gives later work a better starting surface.
+It Makes Federalism Less Available as a Slogan
+A final gain is discipline.
+Federalism is often used as a word of approval or objection. People invoke it when they want to defend state power, resist national power, justify national intervention, preserve local variation, condemn overreach, or protect institutional boundaries.
+Sometimes those invocations are serious.
+Sometimes they are slogans.
+The scale-discipline account makes slogan use harder.
+If someone says “Federalism,” the answer can be:
+* Which scale burden are you naming?
+* Are you preserving nested-system reality?
+* Are you preserving the person’s membership in the whole?
+* Are you preventing flattening?
+* Are you preventing fragmentation?
+* Are you preventing shear, drift, echo, or lock?
+* Are you holding both faces together, or only the face that helps your preferred actor?
+That does not end disagreement.
+It improves disagreement.
+It forces Federalism arguments to become more accountable to the object they claim to defend.
+What It Does Not Decide
+This result does not make Federalism mechanical.
+It does not tell courts how to decide every case.
+It does not tell legislatures exactly how to draft every statute.
+It does not tell agencies exactly how to administer every program.
+It does not tell citizens which level of government to trust.
+It does not erase doctrine, history, text, federal statutes, state constitutions, institutional competence, facts, procedure, or prudence.
+It also does not mean every public-scale problem is Federalism.
+The result is narrower.
+It gives Federalism a structural center and a failure test.
+That is enough.
+A constitutional method does not become more serious by pretending to answer everything. It becomes more serious by making the right question harder to evade.
+Here, the question is:
+Does public power, as it changes scale, still carry the person through real nested systems as part of one constitutional body?
+If that question can be asked clearly, then Federalism can be used more honestly.
+That is what this artifact makes available.
+The closing can therefore return to the simplest form of the claim.
+11. Closing Compression
+Federalism is not primarily the fight over which government wins.
+That fight matters. Governments do have powers. Doctrines do allocate authority. Courts do decide conflicts. Statutes do preempt. States do resist. National power does reach. Local systems do act. Real public actors make real claims against one another.
+But those contests are not the deepest object.
+The deeper object is scale.
+A constitutional republic has to remain one body without becoming flat. It has to preserve many nested public systems without letting them become separate constitutional worlds. It has to carry the person across those systems without allowing membership in the whole to disappear inside any one layer.
+That is Federalism’s burden.
+One constitutional body without flatness.
+Many nested systems without fragmentation.
+The person carried across scale without loss of membership in the whole.
+Those are not three decorative phrases. They name one discipline.
+If the corpus does not remain one, public power fragments. A person may be processed by many systems without being held by one constitutional body.
+If nested systems do not remain real, public power flattens. States, local governments, agencies, courts, and institutions may still exist, but they become instruments of a center rather than lawful systems with their own work.
+If the person is not carried across scale, public power abandons the very unit the constitutional order is supposed to preserve. The person becomes only local, only state, only administrative, only procedural, only classified, only transferred, only denied, or only someone else’s responsibility.
+Federalism exists because all three failures are possible.
+It fails when the dual-faced hold breaks: when nested-system reality and person-continuity across scale collapse together, so that the whole can no longer carry the person through real systems as part of one constitutional body.
+That failure can take different shapes.
+It can look like dissolution, when nested systems stop carrying as parts of one body.
+It can look like shear, when power, responsibility, remedy, record, and accountability split across layers and the person falls between them.
+It can look like drift, when a scale forgets its scale: the part acts like the whole, or the whole treats the parts as fake.
+It can look like echo, when the person’s claim circulates through public systems without ownership.
+It can look like lock, when one scale hardens into a wall against another lawful scale or against the person carried through it.
+Those failures are not abstractions. They are ways a person can be lost in public power while every public actor still has an explanation.
+That is why Federalism has to be more than a slogan.
+“States’ rights” is not enough. Sometimes it protects a lawful boundary. Sometimes it becomes boundary capture.
+“National supremacy” is not enough. Sometimes it preserves the whole. Sometimes it flattens the nested systems.
+“Local control” is not enough. Sometimes it protects proximity and responsibility. Sometimes it traps the person inside local power.
+“Civil-rights enforcement” is not enough. Sometimes it is whole-corpus repair. Sometimes repair becomes flattening.
+“Incorporation,” “anti-commandeering,” and “preemption” are not enough by themselves either. They are real doctrine surfaces. They matter. But none of them is the whole object alone.
+Federalism is the object that lets those partial truths remain in lawful relation.
+It asks whether scale still holds.
+That question should travel with every Federalism argument.
+When the state claims authority, ask whether it preserves a real nested system or blocks the person’s claim on the whole.
+When the national layer acts, ask whether it preserves the whole or pretends it is the whole.
+When local systems process a person, ask whether they carry the person as part of one constitutional body or trap the person inside local procedure.
+When doctrine is invoked, ask whether it protects lawful scale or hides scale failure.
+When responsibility moves across layers, ask whether it is being carried or merely passed.
+The final test is simple enough to use, but demanding enough to matter:
+Does this preserve one corpus without flatness, many nested systems without fragmentation, and the person across scale without loss of whole-corpus membership?
+If yes, the act, doctrine, argument, or institution may be doing Federalism work.
+If no, Federalism language may still be present, but the scale-discipline burden has not been met.
+This does not decide every legal case. It does not replace constitutional law. It does not erase hard questions about tribal sovereignty, private delegated public power, immigration, emergency authority, military force, territories, commerce, doctrine, facts, history, or institutional competence.
+It gives those questions a clearer place to stand when Federalism is genuinely involved.
+Federalism, in this account, is the scale discipline hosted by the constitutional civic field. It sits below the whole field and above any single doctrine. It is not the entire constitutional order. It is the internal condition that lets public scale remain lawful.
+That is enough.
+A constitutional republic does not only need power to be divided.
+It needs power to carry.
+It needs the whole to remain whole without erasing the parts.
+It needs the parts to remain real without becoming separate worlds.
+It needs the person to remain constitutionally present while moving through them.
+Federalism names that burden.
+So the closing question is not only:
+Who has power?
+The closing question is:
+Does public power, as it changes scale, still carry the person through real nested systems as part of one constitutional body?
+That is Federalism as scale discipline.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration of Generative AI and AI-Assisted Technologies
+During the preparation and revision of this manuscript, the author used generative AI tools to assist with drafting support, language refinement, structural editing, title development, and clarity. All substantive arguments, theoretical claims, scope decisions, and final editorial judgments are the author’s own. The author reviewed and approved the final manuscript and takes full responsibility for its content. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Federalism as Scale Discipline
+One Constitutional Body, Real Nested Systems, and the Person Carried Across Scale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signed,
+
+
+
+
+
+
+Rick
